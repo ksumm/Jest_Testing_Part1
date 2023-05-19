@@ -1,0 +1,15 @@
+{
+  "name": "jest_testing_part1",
+  "version": "1.0.0",
+  "description": "This repository contains the final code solutions for the first part of the JavaScript Testing with Jest syllabus.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "jest-environment-jsdom": "^29.5.0"
+  }
+}
